@@ -1,0 +1,3 @@
+# Times Maze Game
+We will create a simple maze game using Pygame, a popular library for building games and multimedia applications. We’ll guide you through the steps to create a maze, move a player through it, add a countdown timer, and display a winning message when the player reaches the end of the maze.
+[source](https://medium.com/@uva/build-a-simple-timed-maze-game-with-python-and-pygame-a20c1cea5406)
