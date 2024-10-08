@@ -1,0 +1,2 @@
+# Snake
+We will be building the classic snake game. The game will start with 4 blocks that will act as a snake. A block will spawn randomly on the grid that will act as a food item. Players control the snake that maneuvers around a grid, growing longer with each consumed red "food" item. The game is over whenever the snake hit the wall or its own body.
